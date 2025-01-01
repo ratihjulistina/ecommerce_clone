@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@mail.com",
+      "password": "password",
+      "image": "https://cdn.sortiraparis.com/images/80/69688/1111691-avatar-le-dernier-maitre-de-l-air-la-saison-2-se-prepare-a-explorer-le-royaume-de-la-terre.jpg",
+      "name": "user-test"
+    }
+  ]
+}
